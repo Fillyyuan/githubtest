@@ -6,3 +6,9 @@ body{
     margin: 0;
     font-size: 60px;
 }
+p{
+    color: red;
+}
+div{
+    border: 1px solid red;
+}
